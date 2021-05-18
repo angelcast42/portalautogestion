@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+    <defs>
+        <filter id="bm96fhynxa">
+            <feColorMatrix in="SourceGraphic" values="0 0 0 0 0.703715 0 0 0 0 0.751941 0 0 0 0 0.907439 0 0 0 1.000000 0"/>
+        </filter>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g>
+                <g filter="url(#bm96fhynxa)" transform="translate(-32 -326) translate(0 68) translate(16 248)">
+                    <g>
+                        <path d="M0 0L24 0 24 24 0 24z" transform="translate(16 10)"/>
+                        <path fill="#858EBD" d="M20.469 11.622l-8.1-8.1C12.045 3.198 11.595 3 11.1 3H4.8C3.81 3 3 3.81 3 4.8v6.3c0 .495.198.945.531 1.278l8.1 8.1c.324.324.774.522 1.269.522.495 0 .945-.198 1.269-.531l6.3-6.3c.333-.324.531-.774.531-1.269 0-.495-.207-.954-.531-1.278zM6.15 7.5c-.747 0-1.35-.603-1.35-1.35 0-.747.603-1.35 1.35-1.35.747 0 1.35.603 1.35 1.35 0 .747-.603 1.35-1.35 1.35z" transform="translate(16 10) matrix(-1 0 0 1 24 0)"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

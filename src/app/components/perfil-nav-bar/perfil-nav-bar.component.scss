@@ -1,0 +1,78 @@
+
+.navbar-brand{
+    font-family: 'TypeType-bold', sans-serif;
+    font-size: 36px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: 2px;
+    color: #f0f6f6;
+}
+.nav-link{
+    font-size: 18px;
+    font-family: 'Rubik-bold', sans-serif;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: 1px;
+    color: #000000;
+}
+.nav-fixed {
+    width: 100%;
+    position: fixed;
+    transition: 0.3s ease-in-out;
+    z-index: 100;
+    background-color: #000000;
+    box-shadow: 0 1px 16px 0 rgba(130, 169, 217, 0.08);
+    h1{
+        height: 40px;
+        font-family: 'Rubik-bold', sans-serif;
+        font-size: 24px;
+        font-weight: bold;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.67;
+        letter-spacing: normal;
+        color: #ffffff;
+        text-align: center;
+    }
+    .buscar{
+        width: 200px;
+        height: 32px;
+        margin: 0 24px 8px 252px;
+        padding: 4px 12px;
+        border-radius: 16px !important;
+        background-color: #f5f5fa;
+      }
+      span{
+        position: absolute;
+        left:100px;
+        width: 50px;
+        height: 50px;
+        display: flex;
+        align-items: center;
+        z-index: 90;
+      }
+      .fas{
+        color: #000000;
+      }
+}
+
+.nav-active {
+    background-color:#1421ff;
+    box-shadow: 5px -1px 12px -5px grey;
+}
+.nav-active-header {
+    background-color:rgba(0,0,0,0.6);
+    box-shadow: 5px -1px 12px -5px grey;
+}
+.btn-custom{
+    width: 95px;
+    height: 36px;
+    border-radius: 50px;
+    font-family: 'Rubik-bold', sans-serif;
+    background-color: #ffffff;
+    color:#8c97ac;
+}

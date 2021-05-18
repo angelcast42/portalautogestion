@@ -1,0 +1,79 @@
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+
+    <div class="row m-0" style="height: 100%;">
+        <div class="col-lg-4 p-5 lateral">
+            <img src="assets/img/bantrablogoblanco.png" alt="" width="220px;">
+            <h1>
+                HAZLO <strong>AHORA</strong><br>
+                A VECES EL <strong>DESPUÉS</strong><br>
+                SE HACE <strong>NUNCA</strong>
+            </h1>
+            <div class="footer">
+                <div class="row" style="padding: 20px;">
+                    <i class="fab fa-facebook fa-3x"></i>     
+                    <i class="fab fa-twitter fa-3x" ></i>
+                    <i class="fab fa-linkedin fa-3x" ></i>
+                </div>
+                <div class="row" >
+                    <button type="button" class="btn btn-link link" >Términos & Condiciones | Política de Privacidad</button>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-8 p-0">
+            <div class="row m-0 p-5 header" style="width: 100%;" >
+                <p class="ml-auto">¿Ya tienes cuenta con nosotros?</p>
+                <button type="button"  class="btn outline-button-magenta" style="width: 143px;">Ingresar</button>
+            </div>
+            <div class="row m-0 center" style="width: 60%;">
+                <div class="col-12 registro-form">
+                    <h1>CREAR MI CUENTA</h1>
+                    <p>Para continuar tu proceso completa los siguientes datos.</p>
+                    <form [formGroup]="registroForm">
+                        <div class="form-group">
+                            <label for="email">DPI</label>
+                            <input type="number" formControlName="dpi"  class="form-control" id="email" aria-describedby="emailHelp" placeholder="2690612850101">
+                        </div>
+                        <div class="form-group">
+                            <label for="email">Correo electrónico</label>
+                            <input type="email" formControlName="correo"  class="form-control" id="email" aria-describedby="emailHelp" placeholder="ejemplo@gmail.com">
+                        </div>
+                        <div class="form-group">
+                            <label for="exampleInputEmail1">Contraseña</label>
+                            <span>
+                                <i class="fas fa-eye fa-2x"></i>
+                                </span>
+                            <input type="password" formControlName="password"  class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" >
+                        </div>
+                        <div class="form-group">
+                            <label for="exampleInputEmail1">Confirmar Contraseña</label>
+                            <span>
+                                <i class="fas fa-eye fa-2x"></i>
+                                </span>
+                            <input type="password" formControlName="confirmpassword" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" >
+                        </div>
+                        <p>Al creaer tu cuenta estas aceptando nuestros <strong>Términos y Condiciones</strong></p>
+                        <div class="row m-0">
+                            <div class="col-lg-6 p-0">
+                                <mat-checkbox class="vertical-center">Recordarme en este dispositivo</mat-checkbox>
+                            </div>
+                        </div>
+                        <button type="button" (click)="signup()" class="btn round-button" style="width: 251px;height: 54px;margin-top: 60px;margin-bottom: 30px;">Continuar</button>
+                        <!-- 
+                           <div class="row m-0" style="margin-top:40px !important;">
+                            <p>O ingresa con:</p>
+                            <hr>
+                        </div>
+                        <div class="row m-0">
+                            <button type="button"  class="btn social-button">
+                                <img class="fb" src="/assets/icons/icon-fb.svg">
+                                Facebook</button>
+                            <button type="button"  class="btn social-button">
+                                <img  src="/assets/icons/icon-google.svg" >
+                                Google</button>
+                        </div> 
+                        -->
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>

@@ -1,0 +1,199 @@
+.container{
+    height: 100%;
+    width: 100%;
+}
+.lateral{
+    background:url("/assets/img/Foto moto 01.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    h1{
+        margin-top:40px;
+        font-family: 'Rubik-medium', sans-serif;
+        font-size: 40px;
+        font-weight: 500;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.4;
+        letter-spacing: normal;
+        color: #ffffff;
+    }
+    strong{
+        font-size: 40px;
+        font-weight: 500;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.4;
+        color:#fdff24;
+    }
+    .footer{
+        position: relative;
+        top:62%;
+        .fab{
+            margin-right: 15px;
+            color: #ffffff;
+        }
+        .link{
+            
+            font-family: 'Rubik-regular', sans-serif;
+            font-size: 16px;
+            font-weight: normal;
+            font-stretch: normal;
+            font-style: normal;
+            line-height: 2;
+            letter-spacing: normal;
+            color: #dae0f2;
+        }
+    }
+}
+.header{
+    p{
+        font-family: 'Rubik-regular', sans-serif;
+        font-size: 16px;
+        text-align: right;
+        color: #898b8c;
+        margin-top: auto;
+        margin-bottom: auto;
+        margin-right: 7px;
+    }
+    .btn-custom{
+        width: 143px;
+        height: 40px;
+        border-radius: 50px;
+        border:solid 2px;
+        border-color: #4458fe;
+        font-family: 'Rubik-medium', sans-serif;
+        background-color: #ffffff;
+        color:#4458fe;
+    }
+}
+    .registro-form{
+        h1{
+            width: 608px;
+            height: 40px;
+            margin: 0 12px 8px 0;
+            font-family: 'Rubik-bold', sans-serif;
+            font-size: 32px;
+            font-weight: bold;
+            font-stretch: normal;
+            font-style: normal;
+            line-height: 1.25;
+            letter-spacing: normal;
+            color: #3a3f63;
+        }
+        strong{
+            font-family: 'Rubik-bold', sans-serif;
+            font-size: 32px;
+            font-weight: bold;
+            font-stretch: normal;
+            font-style: normal;
+            line-height: 1.25;
+            letter-spacing: normal;
+            color: #1421ff;
+        }
+        p{
+            font-family: 'Rubik-regular', sans-serif;
+            font-size: 16px;
+            text-align: left;
+            color: #898b8c;
+        }
+        label{
+            font-family: 'Rubik-regular', sans-serif;
+            font-size: 16px;
+            font-weight: normal;
+            font-stretch: normal;
+            font-style: normal;
+            line-height: 1.5;
+            letter-spacing: normal;
+            color: #3a3f63;
+        }
+        input{
+            width: 595px;
+            height: 54px;
+        }
+        span{
+            position: absolute;
+            left:555px;
+            height: 50px;
+            display: flex;
+            align-items: center;
+          }
+          .fas{
+            color: #dae0f2;
+        }
+        .link{
+            width: 250px;
+            font-family: 'Rubik-medium', sans-serif;
+            font-size: 16px;
+            font-weight: 500;
+            font-stretch: normal;
+            font-style: normal;
+            line-height: 1.5;
+            letter-spacing: normal;
+            text-align: right;
+            color: #898b8c;
+
+        }
+
+        ::ng-deep .mat-checkbox-checked.mat-accent {
+            .mat-checkbox-ripple .mat-ripple-element {
+                background-color: #de0060 !important;
+            }
+      
+            .mat-checkbox-background, .mat-checkbox-indeterminate.mat-accent .mat-checkbox-background {
+                background-color: #de0060;
+            }
+        }
+        ::ng-deep .mat-checkbox.mat-accent {
+            .mat-checkbox-ripple .mat-ripple-element {
+                background-color: #de0060 !important;
+            }
+        }
+        /*
+        ::ng-deep .mat-checkbox .mat-checkbox-frame {
+            border-color: #4458fe;
+          }*/
+        ::ng-deep .mat-checkbox .mat-checkbox-layout{
+            margin-bottom: 0px;
+            font-family: 'Rubik-regular', sans-serif;
+            font-size: 16px;
+            font-weight: normal;
+            font-stretch: normal;
+            font-style: normal;
+            line-height: 1.5;
+            letter-spacing: normal;
+            color: #3a3f63;
+        }
+        .btn-custom{
+            width: 236px;
+            height: 54px;
+            margin-top: 32px;
+            border-radius: 50px;
+            border:solid 2px;
+            border-color: #4458fe;
+            font-family: 'Rubik-medium', sans-serif;
+            background-color: #4458fe;
+            color:#ffffff;
+            box-shadow: 0 4px 16px 0 #b3c0e7;
+        }
+        hr {
+            width: 485px;
+            height: 1px;
+            margin: 12px 0 11px 5px;
+            background-color: #dae0f2;
+        }
+        .social-button{
+            width: 170px;
+            height: 40px;
+            margin: 32px 24px 0 0;
+            padding: 8px 28px 8px 24px;
+            border-radius: 27px;
+            box-shadow: 0 4px 16px 0 rgba(179, 192, 231, 0.32);
+            background-color: #ffffff;
+            font-family: 'Rubik-medium', sans-serif;
+            color: #3a3f63;
+        }
+        .fb{
+            filter: invert(37%) sepia(41%) saturate(6618%) hue-rotate(226deg) brightness(101%) contrast(105%);
+        }
+    }

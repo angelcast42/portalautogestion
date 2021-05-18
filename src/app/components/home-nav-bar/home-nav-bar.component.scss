@@ -1,0 +1,39 @@
+
+.navbar-brand{
+    font-family: 'TypeType-bold', sans-serif;
+    font-size: 36px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: 2px;
+    color: #f0f6f6;
+}
+.nav-link{
+    font-size: 18px;
+    font-family: 'Rubik-bold', sans-serif;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: 1px;
+    color: #f0f6f6;
+}
+.nav-fixed {
+    width: 100%;
+    position: fixed;
+    transition: 0.3s ease-in-out;
+    z-index: 80;
+    background-color:#000000;
+    box-shadow: 5px -1px 12px -5px grey;
+    
+}
+
+.nav-active {
+    background-color:#000000;
+    box-shadow: 5px -1px 12px -5px grey;
+}
+.nav-active-header {
+    background-color:rgba(0,0,0,0.6);
+    box-shadow: 5px -1px 12px -5px grey;
+}

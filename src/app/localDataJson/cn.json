@@ -1,0 +1,1108 @@
+﻿[
+    {
+        "codigo": "1000",
+        "direccion": "AVENIDA REFORMA 9-55 ZONA 10, EDIFICIO REFORMA 10, 1ER NIVEL",
+        "cn": "Central",
+        "departamento": "GUATEMALA",
+        "municipio": "GUATEMALA"
+    },
+    {
+        "codigo": "2730",
+        "direccion": "9 CALLE AVENIDA LAS AMERICAS  8-42 INTERIOR  EDIFICION AMERICAS 10 LOCAL 108 ZONA 13",
+        "cn": "Reforma 10 ",
+        "departamento": "GUATEMALA",
+        "municipio": "GUATEMALA"
+    },
+    {
+        "codigo": "2690",
+        "direccion": "CENTRO COMERCIAL OAKLAND MALL DIAGONAL 6 13-01 ZONA 10, LOCAL NO.5 PLAZA FINANCIERA 4. NIVEL",
+        "cn": "Americas 10",
+        "departamento": "GUATEMALA",
+        "municipio": "GUATEMALA"
+    },
+    {
+        "codigo": "2740",
+        "direccion": "18 CALLE BOULEVARD LOS PROCERES 26-21 ZONA 10, C.C. ARKADIA  INTERIOR WALMART LOCAL 1 Y 2",
+        "cn": "Oakland ",
+        "departamento": "GUATEMALA",
+        "municipio": "GUATEMALA"
+    },
+    {
+        "codigo": "2550",
+        "direccion": "BOULEVARD LOS PROCERES 11-28 ZONA 10",
+        "cn": "Walmart Proceres",
+        "departamento": "GUATEMALA",
+        "municipio": "GUATEMALA"
+    },
+    {
+        "codigo": "1220",
+        "direccion": "16 CALLE ZONA 10 CENTRO COMERCIAL LOS PROCERES",
+        "cn": "Proceres",
+        "departamento": "GUATEMALA",
+        "municipio": "GUATEMALA"
+    },
+    {
+        "codigo": "2190",
+        "direccion": "12 CALLE 0-93, ZONA 9, CENTRO COMERCIAL MONTUFAR, LOCAL 5",
+        "cn": "C.C. Proceres",
+        "departamento": "GUATEMALA",
+        "municipio": "GUATEMALA"
+    },
+    {
+        "codigo": "1290",
+        "direccion": "7MA. AVENIDA 7-73 ZONA 9",
+        "cn": "Montufar",
+        "departamento": "GUATEMALA",
+        "municipio": "GUATEMALA"
+    },
+    {
+        "codigo": "8116",
+        "direccion": "CENTRO COMERCIAL PASEO CAYALA EDIFICIO B LOCAL 104 B BOULEVARD RAFAEL LANDIVAR 10-05 ZONA 16",
+        "cn": "Paseo Cayala ",
+        "departamento": "GUATEMALA",
+        "municipio": "GUATEMALA"
+    },
+    {
+        "codigo": "2270",
+        "direccion": "BOULEVAR CENTRO MEDICO MILITAR 13-31 ZONA 16, C.C. SANTA AMELIA LOCALES 21 Y 22, GUATEMALA.",
+        "cn": "Santa Amelia",
+        "departamento": "GUATEMALA",
+        "municipio": "GUATEMALA"
+    },
+    {
+        "codigo": "5030",
+        "direccion": "1RA CALLE 2-07 ZONA 3",
+        "cn": "San Jose Pinula",
+        "departamento": "GUATEMALA",
+        "municipio": "SAN JOSÉ PINULA"
+    },
+    {
+        "codigo": "1260",
+        "direccion": "KM 15.5 CARRETERA A EL SALVADOR PLAZA CONCEPCION LOCAL 4",
+        "cn": "Condado Concepcion",
+        "departamento": "GUATEMALA",
+        "municipio": "SANTA CATARINA PINULA"
+    },
+    {
+        "codigo": "2160",
+        "direccion": "CA-9 NORTE RUTA AL ATLANTICO 40-26 ZONA 17, LOCAL UF1 C.C. CENTRA NORTE",
+        "cn": "Centra Norte",
+        "departamento": "GUATEMALA",
+        "municipio": "GUATEMALA"
+    },
+    {
+        "codigo": "1200",
+        "direccion": "BOULEVAR CENTRO MEDICO MILITAR 13-31 ZONA 16, C.C. SANTA AMELIA LOCALES 21 Y 22, GUATEMALA.",
+        "cn": "Walmart Norte",
+        "departamento": "GUATEMALA",
+        "municipio": "GUATEMALA"
+    },
+    {
+        "codigo": "2100",
+        "direccion": "CENTRO COMERCIAL PORTALES LOCAL PF-05, CARRETERA AL ATLANTICO 3-20 ZONA 17",
+        "cn": "Portales",
+        "departamento": "GUATEMALA",
+        "municipio": "GUATEMALA"
+    },
+    {
+        "codigo": "1330",
+        "direccion": "5 CALLE 14-35 CALLE MARTI ZONA 6 LOCALES 10 Y 11",
+        "cn": "Calle Marti",
+        "departamento": "GUATEMALA",
+        "municipio": "GUATEMALA"
+    },
+    {
+        "codigo": "1060",
+        "direccion": "CALZADA JOSE MILLA Y VIDAURRE 18-64 ZONA 6",
+        "cn": "Parroquia",
+        "departamento": "GUATEMALA",
+        "municipio": "GUATEMALA"
+    },
+    {
+        "codigo": "2610",
+        "direccion": "15 AVENIDA 16-11 ZONA 6 LA PEDRERA C.C. MEGA 6",
+        "cn": "Mega 6",
+        "departamento": "GUATEMALA",
+        "municipio": "GUATEMALA"
+    },
+    {
+        "codigo": "2830",
+        "direccion": "C.C. ESCALA CARRETERA, LOCAL 24 Y 24 K  CARRETERA A EL SALVADOR KM. 14.5  PUERTA PARADA",
+        "cn": "Escala Carretera a El Salvador ",
+        "departamento": "GUATEMALA",
+        "municipio": "SANTA CATARINA PINULA"
+    },
+    {
+        "codigo": "2650",
+        "direccion": "27 CALLE 22-38 ESQUINA, ZONA 5",
+        "cn": "27 Calle Zona 5",
+        "departamento": "GUATEMALA",
+        "municipio": "GUATEMALA"
+    },
+    {
+        "codigo": "2680",
+        "direccion": "20 CALLE 39-22 COLONIA ARRIVILLAGA ZONA 5 CENTRO COMERCIAL PLAZA REAL ASUNCION LOCAL 21",
+        "cn": "Plaza Real la Asuncion",
+        "departamento": "GUATEMALA",
+        "municipio": "GUATEMALA"
+    },
+    {
+        "codigo": "1030",
+        "direccion": "4A. AVENIDA 6-30 ZONA 4",
+        "cn": "Zona 4",
+        "departamento": "GUATEMALA",
+        "municipio": "GUATEMALA"
+    },
+    {
+        "codigo": "1070",
+        "direccion": "7A. AVENIDA 20-36 ZONA 1, EDIFICIO GANDARA",
+        "cn": "Centro Civico",
+        "departamento": "GUATEMALA",
+        "municipio": "GUATEMALA"
+    },
+    {
+        "codigo": "1130",
+        "direccion": "11 CALLE 8-20 ZONA 1",
+        "cn": "Zona 1",
+        "departamento": "GUATEMALA",
+        "municipio": "GUATEMALA"
+    },
+    {
+        "codigo": "1020",
+        "direccion": "21 CALLE 2-09 ZONA 1",
+        "cn": "21 Calle",
+        "departamento": "GUATEMALA",
+        "municipio": "GUATEMALA"
+    },
+    {
+        "codigo": "1090",
+        "direccion": "AVENIDA BOLIVAR 32-53 ZONA 8",
+        "cn": "Bolivar",
+        "departamento": "GUATEMALA",
+        "municipio": "GUATEMALA"
+    },
+    {
+        "codigo": "2870",
+        "direccion": "6 AVENIDA 12-16 ZONA 1",
+        "cn": "Paseo La Sexta",
+        "departamento": "GUATEMALA",
+        "municipio": "GUATEMALA"
+    },
+    {
+        "codigo": "1150",
+        "direccion": "KM. 16.5 CARRETERA A SAN JUAN SAC LOCAL 9 Y 10 A COMPLEJO IND. MIXCO NORTE , ZONA 6 DE MIXCO",
+        "cn": "Mixco Norte",
+        "departamento": "GUATEMALA",
+        "municipio": "MIXCO"
+    },
+    {
+        "codigo": "1280",
+        "direccion": "CALZADA ROOSEVELT 37-38, ZONA 7",
+        "cn": "Calzada Roosevelt",
+        "departamento": "GUATEMALA",
+        "municipio": "GUATEMALA"
+    },
+    {
+        "codigo": "1110",
+        "direccion": "CALZADA ROOSEVELT  26-60 C.C. WALMART ROOSEVELT",
+        "cn": "Walmart Roosevelt",
+        "departamento": "GUATEMALA",
+        "municipio": "GUATEMALA"
+    },
+    {
+        "codigo": "1350",
+        "direccion": "CALZADA ROOSEVELT 22-43 ZONA 11, CENTRO COMERCIAL TIKAL FUTURA, LOCAL 129",
+        "cn": "Tikal Futura",
+        "departamento": "GUATEMALA",
+        "municipio": "GUATEMALA"
+    },
+    {
+        "codigo": "2720",
+        "direccion": "21 AVENIDA 4-32 ZONA 11 C.C. MIRAFLORES, 2 NIVEL, LOCAL PF-08",
+        "cn": "Miraflores ",
+        "departamento": "GUATEMALA",
+        "municipio": "GUATEMALA"
+    },
+    {
+        "codigo": "2010",
+        "direccion": "CALZADA ROOSEVELT 13-46 ZONA 7",
+        "cn": "Renap Roosevelt",
+        "departamento": "GUATEMALA",
+        "municipio": "GUATEMALA"
+    },
+    {
+        "codigo": "1180",
+        "direccion": "CALZADA ROOSEVELT 12-34, ZONA 7",
+        "cn": "Carabanchel",
+        "departamento": "GUATEMALA",
+        "municipio": "GUATEMALA"
+    },
+    {
+        "codigo": "1300",
+        "direccion": "23 CALLE 10-00 ZONA 4 MIXCO CENTRO COMERCIAL NARANJO MALL LOCALES PF05 Y 06",
+        "cn": "Naranjo Mall ",
+        "departamento": "GUATEMALA",
+        "municipio": "GUATEMALA"
+    },
+    {
+        "codigo": "1210",
+        "direccion": "41 AVE.3-10 LOCAL NO. 180  ZONA 4 MIXCO BOSQUES DE SAN NICOLAS",
+        "cn": "Bosques de San Nicolas",
+        "departamento": "GUATEMALA",
+        "municipio": "MIXCO"
+    },
+    {
+        "codigo": "1160",
+        "direccion": "CALZADA SAN JUAN 48-93 ZONA 3 DE MIXCO COLONIA EL ROSARIO",
+        "cn": "Calzada San Juan",
+        "departamento": "GUATEMALA",
+        "municipio": "MIXCO"
+    },
+    {
+        "codigo": "2770",
+        "direccion": "CALZ. ROOSEVELT 25-50 C. C. PERI-ROOSEVELT LOCAL 4, ZONA 7",
+        "cn": "Peri Roosevelt ",
+        "departamento": "GUATEMALA",
+        "municipio": "GUATEMALA"
+    },
+    {
+        "codigo": "1380",
+        "direccion": "BOULEVARD PRINCIPAL MANZANA CC SECTOR B1 LOTE 208 SAN CRISTOBAL ZONA 8 DE  MIXCO CENTRO COMERCIAL PLAZA SAN CRISTOBAL LOCALES 175 Y 176",
+        "cn": "San Cristobal",
+        "departamento": "GUATEMALA",
+        "municipio": "MIXCO"
+    },
+    {
+        "codigo": "2440",
+        "direccion": "3A CALLE 6-72 SECTOR A3 BOULEVARD SAN CRISTOBAL ZONA 8 DE MIXO C.C. SANKRIS MALL",
+        "cn": "Sankris Mall",
+        "departamento": "GUATEMALA",
+        "municipio": "MIXCO"
+    },
+    {
+        "codigo": "1170",
+        "direccion": "AVENIDA PETAPA 36-32, ZONA 12, PLAZA 36 LOCAL 3",
+        "cn": "Petapa",
+        "departamento": "GUATEMALA",
+        "municipio": "GUATEMALA"
+    },
+    {
+        "codigo": "1320",
+        "direccion": "CENTRO COMERCIAL ATANASIO TZUL, LOCAL 132, PLANTA BAJA. CALZ ATANACIO TZUL 51-57 ZONA 12 ",
+        "cn": "Atanasio",
+        "departamento": "GUATEMALA",
+        "municipio": "GUATEMALA"
+    },
+    {
+        "codigo": "2790",
+        "direccion": "CIUDAD UNIVERSITARIA, ZONA 12, EDIFICIO DE CAJA.",
+        "cn": "USAC",
+        "departamento": "GUATEMALA",
+        "municipio": "GUATEMALA"
+    },
+    {
+        "codigo": "1270",
+        "direccion": "CALZ. AGUILAR BATRES 31-36  ZONA 11 CENTRO COMERCIAL SUR PLAZA PRIMER NIVEL LOCAL 4",
+        "cn": "Sur Plaza",
+        "departamento": "GUATEMALA",
+        "municipio": "GUATEMALA"
+    },
+    {
+        "codigo": "5010",
+        "direccion": "CENTRA SUR VILLA NUEVA 23 CALLE 1-55 INTERIOR, CENTRAL DE MAYOREO C.C. CENTRA SUR LOCAL 90B1",
+        "cn": "Centra Sur",
+        "departamento": "GUATEMALA",
+        "municipio": "VILLA NUEVA"
+    },
+    {
+        "codigo": "1230",
+        "direccion": "5A. AVENIDA 5-55 ZONA 1 VILLA NUEVA PLAZA VICTORIA",
+        "cn": "Villa Nueva I",
+        "departamento": "GUATEMALA",
+        "municipio": "VILLA NUEVA"
+    },
+    {
+        "codigo": "1240",
+        "direccion": "6TA. CALLE 17-45 LOCAL 7 CENTRO MUNICIPAL MERCADO NUEVO",
+        "cn": "Villa Nueva Mercado",
+        "departamento": "GUATEMALA",
+        "municipio": "VILLA NUEVA"
+    },
+    {
+        "codigo": "1310",
+        "direccion": "3A. AVENIDA 4-63,  BARRIO LA CRUZ AMATITLAN",
+        "cn": "Amatitlan",
+        "departamento": "GUATEMALA",
+        "municipio": "AMATITLÁN"
+    },
+    {
+        "codigo": "2250",
+        "direccion": "BOULEVARD EL FRUTAL 14-00 ZONA 5, VILLA NUEVA LOCAL 86 A CC EL FRUTAL",
+        "cn": "El frutal",
+        "departamento": "GUATEMALA",
+        "municipio": "VILLA NUEVA"
+    },
+    {
+        "codigo": "2560",
+        "direccion": "ECO CENTRO LOS ALAMOS 0 CALLE 0-60 ZONA7 VILLA HERMOSA I SAN MIGUEL PETAPA LOCAL P-F1",
+        "cn": "Los Alamos",
+        "departamento": "GUATEMALA",
+        "municipio": "SAN MIGUEL PETAPA"
+    },
+    {
+        "codigo": "1730",
+        "direccion": "LOCAL G CENTRO COMERCIAL LAS PUERTAS, KM. 29.5 CARRETERA INTERAMERICANA, SAN LUCAS SACATEPEQUEZ",
+        "cn": "San Lucas",
+        "departamento": "SACATEPÉQUEZ",
+        "municipio": "SAN LUCAS SACATEPÉQUEZ"
+    },
+    {
+        "codigo": "2880",
+        "direccion": "C.C. LA PRADERA VISTARES, DIAGONAL 19, 36-01 ZONA 12",
+        "cn": "Vistares Atanasio",
+        "departamento": "GUATEMALA",
+        "municipio": "GUATEMALA"
+    },
+    {
+        "codigo": "1590",
+        "direccion": "4A. CALLE PONIENTE NO. 22,  ANTIGUA GUATEMALA",
+        "cn": "Antigua",
+        "departamento": "SACATEPÉQUEZ",
+        "municipio": "ANTIGUA GUATEMALA"
+    },
+    {
+        "codigo": "1190",
+        "direccion": "6TA. CALLE Y 6TA. AVE. ESQUINA, ZONA 3 MUNICIPALIDAD SAN JUAN SACATEPEQUEZ",
+        "cn": "San Juan Sacatepequez",
+        "departamento": "GUATEMALA",
+        "municipio": "SAN JUAN SACATEPÉQUEZ"
+    },
+    {
+        "codigo": "2750",
+        "direccion": "BARRIO EL PARAISO ZONA 4, EL CHAL",
+        "cn": "El Chal",
+        "departamento": "PETÉN",
+        "municipio": "EL CHAL"
+    },
+    {
+        "codigo": "1930",
+        "direccion": "5TA. CALLE 4A. AV. C.C EL PORTAL DEL COMERCIO BARRIO DEL CENTRO",
+        "cn": "La Libertad, Peten ",
+        "departamento": "PETÉN",
+        "municipio": "LA LIBERTAD"
+    },
+    {
+        "codigo": "1920",
+        "direccion": "CC PLAZA SOL BARRIO EL CENTRO MELCHO DE MENCOS PETEN LOCAL 110, 111 Y 112",
+        "cn": "Melchor de Mencos",
+        "departamento": "PETÉN",
+        "municipio": "MELCHOR DE MENCOS"
+    },
+    {
+        "codigo": "2760",
+        "direccion": "CIUDAD SATELITE, CARRETERA FLORES TIKAL, CENTRO COMERCIAL METROPLAZA, PETEN, LOCAL 114",
+        "cn": "Metroplaza Peten",
+        "departamento": "PETÉN",
+        "municipio": "FLORES"
+    },
+    {
+        "codigo": "1830",
+        "direccion": "CALLE PRINCIPAL, ENTRE 6ta. CALLE Y 5ta. AVENIDA, POPTUN PETEN",
+        "cn": "Poptun",
+        "departamento": "PETÉN",
+        "municipio": "POPTÚN"
+    },
+    {
+        "codigo": "2180",
+        "direccion": "BARRIO VISTA HERMOSA, SAN LUIS, PETEN",
+        "cn": "San Luis",
+        "departamento": "PETÉN",
+        "municipio": "SAN LUIS"
+    },
+    {
+        "codigo": "1480",
+        "direccion": "4A. CALLE 3-80 ZONA 1 CC. PLAZA JADE SANTA ELENA, PETEN",
+        "cn": "Santa Elena Peten, P.Jade",
+        "departamento": "PETÉN",
+        "municipio": "FLORES"
+    },
+    {
+        "codigo": "2470",
+        "direccion": "CALLE PRINCIPAL, FRENTE AL ESTADIO MUNICIPAL, BARRIO EL CENTRO, SAYAXCHE, PETEN",
+        "cn": "Sayaxche",
+        "departamento": "PETÉN",
+        "municipio": "SAYAXCHÉ"
+    },
+    {
+        "codigo": "1520",
+        "direccion": "1A. CALLE 4-36, ZONA 2, CIUDAD DE COBAN",
+        "cn": "Coban",
+        "departamento": "ALTA VERAPAZ",
+        "municipio": "COBÁN"
+    },
+    {
+        "codigo": "2120",
+        "direccion": "CALLE PRINCIPAL, BARRIO EL CEMENTERIO, FRAY BARTOLOME DE LAS CASAS A.V.",
+        "cn": "Fray Bartolome",
+        "departamento": "ALTA VERAPAZ",
+        "municipio": "FRAY BARTOLOMÉ DE LAS CASAS"
+    },
+    {
+        "codigo": "2280",
+        "direccion": "COLONIA EL TRIUNFO ZONA1, PLAYA GRANDE,IXCAN, QUICHE",
+        "cn": "Ixcan Playa Grande",
+        "departamento": "EL QUICHÉ",
+        "municipio": "IXCÁN"
+    },
+    {
+        "codigo": "1870",
+        "direccion": "1A. CALLE 15-20 ZONA 2",
+        "cn": "Plaza Magdalena",
+        "departamento": "ALTA VERAPAZ",
+        "municipio": "COBÁN"
+    },
+    {
+        "codigo": "2000",
+        "direccion": "1RA. AVENIDA Y 2DA. CALLE ZONA 1 RABINAL B.V.",
+        "cn": "Rabinal",
+        "departamento": "BAJA VERAPAZ",
+        "municipio": "RABINAL"
+    },
+    {
+        "codigo": "2090",
+        "direccion": "5 CALLE 4TA AV. 4-12 ZONA 3",
+        "cn": "Renap Coban",
+        "departamento": "ALTA VERAPAZ",
+        "municipio": "COBÁN"
+    },
+    {
+        "codigo": "2800",
+        "direccion": "7 CALLE ZONA 2 C.C. GRAN CARCHA LOCAL 302, SAN PEDRO CARCHA, ALTA VERAPAZ",
+        "cn": "San Pedro Carchá",
+        "departamento": "ALTA VERAPAZ",
+        "municipio": "SAN PEDRO CARCHÁ"
+    },
+    {
+        "codigo": "1720",
+        "direccion": "7A. AVENIDA Y 6A. CALLE ,  ZONA 1",
+        "cn": "Salama",
+        "departamento": "BAJA VERAPAZ",
+        "municipio": "SALAMÁ"
+    },
+    {
+        "codigo": "2480",
+        "direccion": "3 CALLE 4-41 ZONA 1, TACTIC, ALTA VERAPAZ",
+        "cn": "Tactic",
+        "departamento": "ALTA VERAPAZ",
+        "municipio": "TACTIC"
+    },
+    {
+        "codigo": "2130",
+        "direccion": "3RA. CALLE Y 4TA. AVENIDA ZONA 1 BARRIO EL CENTRO EL ESTOR, IZABAL",
+        "cn": "El Estor",
+        "departamento": "IZABAL",
+        "municipio": "EL ESTOR"
+    },
+    {
+        "codigo": "2460",
+        "direccion": "KILOMETRO 200 FRENTE AL GIMNASIO MUNICIPAL",
+        "cn": "Los Amates",
+        "departamento": "IZABAL",
+        "municipio": "LOS AMATES"
+    },
+    {
+        "codigo": "1950",
+        "direccion": "AVENIDA SIMON BOLIVAR MORALES, IZABAL",
+        "cn": "Morales",
+        "departamento": "IZABAL",
+        "municipio": "MORALES"
+    },
+    {
+        "codigo": "1410",
+        "direccion": "8 CALLE 7 Y 8 AVENIDA",
+        "cn": "Puerto Barrios",
+        "departamento": "IZABAL",
+        "municipio": "PUERTO BARRIOS"
+    },
+    {
+        "codigo": "2630",
+        "direccion": "CALLE PRINCIPAL FRENTE AL MERCADO CANTONAL DE SANTO TOMAS DE CASTILLA, PUERTO BARRIOS",
+        "cn": "Santo Tomas",
+        "departamento": "IZABAL",
+        "municipio": "Puerto Barrios"
+    },
+    {
+        "codigo": "2110",
+        "direccion": "CALLE PRINCIPAL ALDEA TELEMAN, PANZOZ ALTA VERAPAZ",
+        "cn": "Teleman",
+        "departamento": "ALTA VERAPAZ",
+        "municipio": "PANZOS"
+    },
+    {
+        "codigo": "1500",
+        "direccion": "8A. AVENIDA 4-30, ZONA 1, CHIQUIMULA",
+        "cn": "Chiquimula",
+        "departamento": "CHIQUIMULA",
+        "municipio": "CHIQUIMULA"
+    },
+    {
+        "codigo": "1810",
+        "direccion": "6TA. AVENIDA. 5-98 ZONA 1 ESQUIPULAS CHIQUIMULA",
+        "cn": "Esquipulas",
+        "departamento": "CHIQUIMULA",
+        "municipio": "ESQUIPULAS"
+    },
+    {
+        "codigo": "1800",
+        "direccion": "BARRIO EL CENTRO CALLE PRINCIPAL GUALAN, ZACAPA",
+        "cn": "Gualan",
+        "departamento": "ZACAPA",
+        "municipio": "GUALÁN"
+    },
+    {
+        "codigo": "1430",
+        "direccion": "2A. CALLE 2-16 ZONA 1 IPALA",
+        "cn": "Ipala",
+        "departamento": "CHIQUIMULA",
+        "municipio": "IPALA"
+    },
+    {
+        "codigo": "2310",
+        "direccion": "BARRIO EL CALVARIO, A UN COSTADO DE LA IGLESIA CATOLICA, JOCOTAN, CHIQUIMULA",
+        "cn": "Jocotan",
+        "departamento": "CHIQUIMULA",
+        "municipio": "JOCOTÁN"
+    },
+    {
+        "codigo": "2040",
+        "direccion": "KM. 172.5 CARRETERA ESQUIPULAS, CHIQUIMULA",
+        "cn": "Oasis Chiquimula",
+        "departamento": "CHIQUIMULA",
+        "municipio": "CHIQUIMULA"
+    },
+    {
+        "codigo": "2600",
+        "direccion": "10 CALLE ENTRE 10 Y 11 AVE. BARRIO LA LAGUNA ZACAPA",
+        "cn": "Plaza Guadalupe",
+        "departamento": "ZACAPA",
+        "municipio": "ZACAPA"
+    },
+    {
+        "codigo": "1680",
+        "direccion": "KM. 167.5 RUTA A ESQUIPULAS, LOCAL 219 C.C. PRADERA CHIQUIMUL",
+        "cn": "Pradera Chiquimula",
+        "departamento": "CHIQUIMULA",
+        "municipio": "CHIQUIMULA"
+    },
+    {
+        "codigo": "1670",
+        "direccion": "6TA. AV. 4-88 ZONA 1 TECULUTAN, ZACAPA",
+        "cn": "Teculutan",
+        "departamento": "ZACAPA",
+        "municipio": "TECULUTÁN"
+    },
+    {
+        "codigo": "1580",
+        "direccion": "4 CALLE 13-36 ZONA 1, ZACAPA",
+        "cn": "Zacapa",
+        "departamento": "ZACAPA",
+        "municipio": "ZACAPA"
+    },
+    {
+        "codigo": "1990",
+        "direccion": "5A. AVENIDA BARRIO CENTRAL ZONA 2 ASUNCION MITA, JUTIAPA",
+        "cn": "Asunción Mita",
+        "departamento": "JUTIAPA",
+        "municipio": "ASUNCIÓN MITA"
+    },
+    {
+        "codigo": "1660",
+        "direccion": "4A. CALLE 3-25 ZONA 1",
+        "cn": "Barberena",
+        "departamento": "SANTA ROSA",
+        "municipio": "BARBERENA"
+    },
+    {
+        "codigo": "1790",
+        "direccion": "1ta. AVENIDA Y 1ta. CALLE, CHIQUIMULILLA, SANTA ROSA",
+        "cn": "Chiquimulilla",
+        "departamento": "SANTA ROSA",
+        "municipio": "CHIQUIMULILLA"
+    },
+    {
+        "codigo": "2070",
+        "direccion": "CARRETERA PANAMERICANA, FRENTE AL PARQUE, CIUDAD PEDRO DE ALVARADO",
+        "cn": "Ciudad Pedro de Alvarado",
+        "departamento": "JUTIAPA",
+        "municipio": "Moyuta"
+    },
+    {
+        "codigo": "2450",
+        "direccion": "2DA. CALLE 1-57, ZONA 1, CUILAPA SANTA ROSA",
+        "cn": "Cuilapa",
+        "departamento": "SANTA ROSA",
+        "municipio": "CUILAPA"
+    },
+    {
+        "codigo": "2350",
+        "direccion": "5A. AVENIDA 2-32 ZONA 1 JALPATAGUA, JUTIAPA",
+        "cn": "Jalpatagua",
+        "departamento": "JUTIAPA",
+        "municipio": "JALPATAGUA"
+    },
+    {
+        "codigo": "1540",
+        "direccion": "05 CALLE 1-71 CALZADA 15 DE SEPTIEMBRE ZONA 3",
+        "cn": "Jutiapa",
+        "departamento": "JUTIAPA",
+        "municipio": "JUTIAPA"
+    },
+    {
+        "codigo": "2500",
+        "direccion": "KM.116 CARRETERA INTERAMERICANA ALDEA CERRO GORDO LOCAL 116 JUTIAPA",
+        "cn": "Metroplaza Jutiapa",
+        "departamento": "JUTIAPA",
+        "municipio": "JUTIAPA"
+    },
+    {
+        "codigo": "1940",
+        "direccion": "0 AVENIDA 9-49 ZONA 2 NUEVA, SANTA ROSA, SANTA ROSA",
+        "cn": "Nueva Santa Rosa",
+        "departamento": "SANTA ROSA",
+        "municipio": "NUEVA SANTA ROSA"
+    },
+    {
+        "codigo": "2810",
+        "direccion": "CARRETERA CA-1 KILOMETRO 56, C.C. PLAZA BARBERENA LOCAL 31, 32 Y 33",
+        "cn": "Plaza Barberena",
+        "departamento": "SANTA ROSA",
+        "municipio": "BARBERENA"
+    },
+    {
+        "codigo": "2710",
+        "direccion": "BARRIO LA ERMITA ZONA 0, SANTA CATARINA MITA, JUTIAPA",
+        "cn": "Santa Catarina Mita",
+        "departamento": "JUTIAPA",
+        "municipio": "SANTA CATARINA MITA"
+    },
+    {
+        "codigo": "1980",
+        "direccion": "BARRIO EL GOLFO GUASTATOYA EL PROGRESO.",
+        "cn": "Guastatoya",
+        "departamento": "EL PROGRESO",
+        "municipio": "GUASTATOYA"
+    },
+    {
+        "codigo": "1570",
+        "direccion": "1A. CALLE ENTRE AVENIDA CHIPILAPA Y AVENIDA CHIPILAPA A ZONA 2 JALAPA",
+        "cn": "Jalapa",
+        "departamento": "JALAPA",
+        "municipio": "JALAPA"
+    },
+    {
+        "codigo": "2210",
+        "direccion": "2DA CALLE 4-20 ZONA 4 CANTON ELENA",
+        "cn": "Mataquescuintla",
+        "departamento": "JALAPA",
+        "municipio": "MATAQUESCUINTLA"
+    },
+    {
+        "codigo": "1910",
+        "direccion": "5AV. 8-27 BO. EL PORVENIR, MONJAS, JALAPA.",
+        "cn": "Monjas",
+        "departamento": "JALAPA",
+        "municipio": "MONJAS"
+    },
+    {
+        "codigo": "2670",
+        "direccion": "BARRIO SAN SEBASTIAN, FRENTE AL PARQUE, SAN AGUSTIN ACASAGUASTLAN",
+        "cn": "San Agustin Acasaguastlan",
+        "departamento": "EL PROGRESO",
+        "municipio": "SAN AGUSTÍN ACASAGUASTLÁN"
+    },
+    {
+        "codigo": "1740",
+        "direccion": "AVENIDA ISMAEL ARRIAZA  0-19 ZONA 2, SANARATE",
+        "cn": "Sanarate",
+        "departamento": "EL PROGRESO",
+        "municipio": "SANARATE"
+    },
+    {
+        "codigo": "2540",
+        "direccion": "3RA. AVENIDA 2-07  ZONA 1 PLAZA SOFIA",
+        "cn": "Cabrican ",
+        "departamento": "QUETZALTENANGO",
+        "municipio": "CABRICÁN"
+    },
+    {
+        "codigo": "1530",
+        "direccion": "EDIF. ROSALES, 5A. AVE. 3-65, ZONA 1 COATEPEQUE, QUETZALTENANGO",
+        "cn": "Coatepeque",
+        "departamento": "QUETZALTENANGO",
+        "municipio": "COATEPEQUE"
+    },
+    {
+        "codigo": "2820",
+        "direccion": "KM. 205 CARRETERA A SAN MARCOS, MUNICIPIO LA ESPERANZA LOCALES 230 Y 231 DE LA PLAZA FINANCIERA CENTRO COMERCIAL INTERPLAZA XELA",
+        "cn": "Interplaza Xela ",
+        "departamento": "QUETZALTENANGO",
+        "municipio": "LA ESPERANZA"
+    },
+    {
+        "codigo": "2150",
+        "direccion": "6A. CALLE 12-124  C.C. LA TRINIDAD COATEPEQUE ZONA 1, LOTIFICACION LA FELICIDAD,LOCALES 15 Y 16, COATEPEQUE",
+        "cn": "La trinidad Coatepeque",
+        "departamento": "QUETZALTENANGO",
+        "municipio": "COATEPEQUE"
+    },
+    {
+        "codigo": "1420",
+        "direccion": "15 AVENIDA 2-09 ZONA 3 QUETZALTENANGO, QUETZALTENANGO",
+        "cn": "Quetzaltenango",
+        "departamento": "QUETZALTENANGO",
+        "municipio": "QUETZALTENANGO"
+    },
+    {
+        "codigo": "2240",
+        "direccion": "1 AVENIDA 2-19 ZONA 2 SAN JUAN OSTUNCALCO, QUETZALTENANGO",
+        "cn": "San Juan Ostuncalco",
+        "departamento": "QUETZALTENANGO",
+        "municipio": "OSTUNCALCO"
+    },
+    {
+        "codigo": "1700",
+        "direccion": "14 AVENIDA 2-57 ZONA 1",
+        "cn": "Xela Centro",
+        "departamento": "QUETZALTENANGO",
+        "municipio": "QUETZALTENANGO"
+    },
+    {
+        "codigo": "2300",
+        "direccion": "KILOMETRO 329 ALDEA CAMOJA GRANDE LA DEMOCRACIA, HUEHUETENANGO",
+        "cn": "Camoja",
+        "departamento": "HUEHUETENANGO",
+        "municipio": "LA DEMOCRACIA"
+    },
+    {
+        "codigo": "1510",
+        "direccion": "3A. CALLE 5-56, ZONA 1 HUEHUETENANGO",
+        "cn": "Huehuetenango ",
+        "departamento": "HUEHUETENANGO",
+        "municipio": "HUEHUETENANGO"
+    },
+    {
+        "codigo": "1760",
+        "direccion": "2 CALLE 3-16 ZONA 1 EDIFICIO ALTUVE",
+        "cn": "Huehuetenango Altuve",
+        "departamento": "HUEHUETENANGO",
+        "municipio": "HUEHUETENANGO"
+    },
+    {
+        "codigo": "2140",
+        "direccion": "CALLE PRINCIPAL A DOS CUADRAS DEL PARQUE CENTRAL, SAN ANTONIO HUISTA, HUEHUETENANGO.",
+        "cn": "San Antonio Huista",
+        "departamento": "HUEHUETENANGO",
+        "municipio": "SAN ANTONIO HUISTA"
+    },
+    {
+        "codigo": "1710",
+        "direccion": "4 AVENIDA 4-38 ZONA 1 SAN PEDRO SOLOMA",
+        "cn": "Soloma",
+        "departamento": "HUEHUETENANGO",
+        "municipio": "SOLOMA"
+    },
+    {
+        "codigo": "2400",
+        "direccion": "4TA CALLE 1-27 ZONA 1 SANTA CRUZ BARILLAS",
+        "cn": "Santa Cruz Barrillas ",
+        "departamento": "HUEHUETENANGO",
+        "municipio": "BARILLAS"
+    },
+    {
+        "codigo": "1840",
+        "direccion": "4ta. AVENIDA 5-26, ZONA 1, MALACATAN SAN MARCOS",
+        "cn": "Malacatan",
+        "departamento": "SAN MARCOS",
+        "municipio": "MALACATÁN"
+    },
+    {
+        "codigo": "2030",
+        "direccion": "2A. CALLE 3-30 ZONA 1, PAJAPITA SAN MARCOS",
+        "cn": "Pajapita San Marcos",
+        "departamento": "SAN MARCOS",
+        "municipio": "PAJAPITA"
+    },
+    {
+        "codigo": "1780",
+        "direccion": "CALZADA REVOLUCION DEL 71,  2-103 ZONA 1",
+        "cn": "San Marcos",
+        "departamento": "SAN MARCOS",
+        "municipio": "SAN MARCOS"
+    },
+    {
+        "codigo": "1560",
+        "direccion": "4A. CALLE 4-43 ZONA 1 PLAZA MARIAN",
+        "cn": "San Pedro Sacatepéquez S.M.",
+        "departamento": "SAN MARCOS",
+        "municipio": "SAN PEDRO SACATEPÉQUEZ"
+    },
+    {
+        "codigo": "2290",
+        "direccion": "5A CALLE  6-16 CALLE REAL, ZONA 4, TACANA SAN MARCOS",
+        "cn": "Tacana",
+        "departamento": "SAN MARCOS",
+        "municipio": "TACANÁ"
+    },
+    {
+        "codigo": "2340",
+        "direccion": "2ta AVENIDA 5-46 ZONA 2, TEJUTLA.",
+        "cn": "Tejutla",
+        "departamento": "SAN MARCOS",
+        "municipio": "TEJUTLA"
+    },
+    {
+        "codigo": "2490",
+        "direccion": "1RA AV. 0-40 ZONA 2 MOMOSTENANGO",
+        "cn": "Momostenango",
+        "departamento": "TOTONICAPÁN",
+        "municipio": "MOMOSTENANGO"
+    },
+    {
+        "codigo": "2410",
+        "direccion": "1 AVENIDA 1-21 ZONA 1 NAHUALA SOLOLA",
+        "cn": "Nahuala",
+        "departamento": "SOLOLÁ",
+        "municipio": "NAHUALÁ"
+    },
+    {
+        "codigo": "2200",
+        "direccion": "1 AVENIDA 3-70 ZONA 1, INTERIOR PLAZA CRISTAL SAN FRANCISCO EL ALTO, TOTONICAPAN",
+        "cn": "San Francisco El Alto",
+        "departamento": "TOTONICAPÁN",
+        "municipio": "SAN FRANCISCO EL ALTO"
+    },
+    {
+        "codigo": "2020",
+        "direccion": "CANTON PACHICHAJ, SANTIAGO ATITLAN, SOLOLA",
+        "cn": "Santiago Atitlan",
+        "departamento": "SOLOLÁ",
+        "municipio": "SANTIAGO ATITLÁN"
+    },
+    {
+        "codigo": "1750",
+        "direccion": "7 AVE. Y 9 CALLE 8-47 ZONA 2 SOLOLA",
+        "cn": "Solola",
+        "departamento": "SOLOLÁ",
+        "municipio": "SOLOLÁ"
+    },
+    {
+        "codigo": "1630",
+        "direccion": "3RA. CALLE 11-29, ZONA 2",
+        "cn": "Totonicapan",
+        "departamento": "TOTONICAPÁN",
+        "municipio": "TOTONICAPÁN"
+    },
+    {
+        "codigo": "1550",
+        "direccion": "5A. AVENIDA 2-35, ZONA 2 DE CHIMALTENANGO",
+        "cn": "Chimaltenango",
+        "departamento": "CHIMALTENANGO",
+        "municipio": "CHIMALTENANGO"
+    },
+    {
+        "codigo": "1450",
+        "direccion": "0 CALLE 2-52 ZONA 3, SAN JUAN COMALAPA, CHIMALTENANGO",
+        "cn": "Comalapa",
+        "departamento": "CHIMALTENANGO",
+        "municipio": "Comalapa"
+    },
+    {
+        "codigo": "2580",
+        "direccion": "2DA CALLE 00-08 ZONA 4 PATZICIA",
+        "cn": "Patzicia Chimaltenango",
+        "departamento": "CHIMALTENANGO",
+        "municipio": "PATZICÍA"
+    },
+    {
+        "codigo": "2590",
+        "direccion": "4 AVENIDA 9-42 ZONA 1 BARRIO SAN GASPAR, SAN MARTIN JILOTEPEQUE",
+        "cn": "San Martin Jilotepeque",
+        "departamento": "CHIMALTENANGO",
+        "municipio": "SAN MARTÍN JILOTEPEQUE"
+    },
+    {
+        "codigo": "1860",
+        "direccion": "1RA CALLE 1-75 ZONA 4 TECPAN",
+        "cn": "Tecpan Guatemala",
+        "departamento": "CHIMALTENANGO",
+        "municipio": "TECPÁN GUATEMALA"
+    },
+    {
+        "codigo": "1470",
+        "direccion": "6A. AVENIDA 6-05, CHICHICASTENANGO, QUICHE.",
+        "cn": "Chichicastenango",
+        "departamento": "EL QUICHÉ",
+        "municipio": "CHICHICASTENANGO"
+    },
+    {
+        "codigo": "2060",
+        "direccion": "BARRIO CENTRAL, JOYABAJ, EL QUICHE",
+        "cn": "Joyabaj",
+        "departamento": "EL QUICHÉ",
+        "municipio": "JOYABAJ"
+    },
+    {
+        "codigo": "1820",
+        "direccion": "2ta. AVENIDA 4-15 ZONA 1 CANTON BATZBACA, SANTA MARIA NEBAJ QUICHE",
+        "cn": "Nebaj Quiche",
+        "departamento": "EL QUICHÉ",
+        "municipio": "NEBAJ"
+    },
+    {
+        "codigo": "2530",
+        "direccion": "3RA. CALLE 0-38 ZONA 1 SANTA CRUZ DEL QUICHE",
+        "cn": "Santa Cruz del Quiche",
+        "departamento": "EL QUICHÉ",
+        "municipio": "SANTA CRUZ DEL QUICHÉ"
+    },
+    {
+        "codigo": "1960",
+        "direccion": "6 AV. 6-51 ZONA 4,  SAN MIGUEL USPANTAN EL QUICHE",
+        "cn": "Uspantan",
+        "departamento": "EL QUICHÉ",
+        "municipio": "USPANTÁN"
+    },
+    {
+        "codigo": "1400",
+        "direccion": "4 AVENIDA 6-65 ZONA 1, ESCUINTLA",
+        "cn": "Escuintla ",
+        "departamento": "ESCUINTLA",
+        "municipio": "ESCUINTLA"
+    },
+    {
+        "codigo": "1970",
+        "direccion": "4A. CALLE Y 6A. AVENIDA, ZONA 1, LOCAL UNICO C.C. MUNICIPAL, LA GOMERA, ESCUINTLA.",
+        "cn": "La Gomera",
+        "departamento": "ESCUINTLA",
+        "municipio": "LA GOMERA"
+    },
+    {
+        "codigo": "2510",
+        "direccion": "AVENIDA CENTRO AMERICA Y CALLE EL SALVADOR NUEVA CONCEPCION, ESCUINTLA",
+        "cn": "Nueva Concepción",
+        "departamento": "ESCUINTLA",
+        "municipio": "NUEVA CONCEPCIÓN"
+    },
+    {
+        "codigo": "2330",
+        "direccion": "1A. AVENIDA 1A. CALLE CENTRO COMERCIAL PLAZA PALMERAS LOCAL 42 ZONA 2, ESCUINTLA",
+        "cn": "Plaza Palmeras",
+        "departamento": "ESCUINTLA",
+        "municipio": "ESCUINTLA"
+    },
+    {
+        "codigo": "1640",
+        "direccion": "1 AVE. 1-40 ZONA 3, C.C. PRADERA ESCUINTLA, LOCAL 28",
+        "cn": "Pradera Escuintla",
+        "departamento": "ESCUINTLA",
+        "municipio": "ESCUINTLA"
+    },
+    {
+        "codigo": "2660",
+        "direccion": "KM. 33.5 CARRETERA AL PACIFICO LOCAL 14 C.C. PRADERA EXPRESS PALIN",
+        "cn": "Pradera Express Palin",
+        "departamento": "ESCUINTLA",
+        "municipio": "PALÍN"
+    },
+    {
+        "codigo": "1850",
+        "direccion": "CENTRO COMERCIAL PLAZA MANANTIAL LOCAL 11 Y 12 BARRIO LA ARENERA KM. 115 PUERTO DE SAN JOSE",
+        "cn": "Puerto San José",
+        "departamento": "ESCUINTLA",
+        "municipio": "PUERTO SAN JOSÉ"
+    },
+    {
+        "codigo": "1690",
+        "direccion": "3 AVENIDA 6-53 ZONA 1 SANTA LUCIA COTZ.",
+        "cn": "Santa Lucia Cotz",
+        "departamento": "ESCUINTLA",
+        "municipio": "SANTA LUCÍA COTZUMALGUAPA"
+    },
+    {
+        "codigo": "2050",
+        "direccion": "CALZADA PRINCIPAL 1-01  ZONA 4 LOCALES 223 Y 224  CENTRO COMERCIAL  ARBORETO TIQUISATE, ESCUINTLA",
+        "cn": "Tiquisate",
+        "departamento": "ESCUINTLA",
+        "municipio": "TIQUISATE"
+    },
+    {
+        "codigo": "1490",
+        "direccion": "AVE. RETALHULEU ENTRE 7A. Y 8A, CALLE PTO. DE CHAMPERICO",
+        "cn": "Champerico",
+        "departamento": "RETALHULEU",
+        "municipio": "CHAMPERICO"
+    },
+    {
+        "codigo": "1460",
+        "direccion": "2DA AVENIDA 4-44 ZONA 1 CHICACAO SUCHITEPEQUEZ",
+        "cn": "Chicacao",
+        "departamento": "SUCHITEPÉQUEZ",
+        "municipio": "CHICACAO"
+    },
+    {
+        "codigo": "2520",
+        "direccion": "CALLE PRINCIPAL LOTE 109 SAN JOSE LA MAQUINA",
+        "cn": "La Maquina Centro",
+        "departamento": "SUCHITEPÉQUEZ",
+        "municipio": "SAN JOSÉ LA MÁQUINA"
+    },
+    {
+        "codigo": "2320",
+        "direccion": "1A. CALLE 5TA. AVENIDA A LOCALES 14 Y 15 C.C. LA TRINIDAD ZONA 5, RETALHULEU.",
+        "cn": "La trinidad Retalhuelu",
+        "departamento": "RETALHULEU",
+        "municipio": "RETALHULEU"
+    },
+    {
+        "codigo": "1440",
+        "direccion": "2A.AVE. Y 8A. CALLE ESQUINA 2-17  ZONA 1 MAZATENANGO",
+        "cn": "Mazatenango",
+        "departamento": "SUCHITEPÉQUEZ",
+        "municipio": "MAZATENANGO"
+    },
+    {
+        "codigo": "2220",
+        "direccion": "3A. AVENIDA 6-57 Z.1, PATULUL",
+        "cn": "Patulul",
+        "departamento": "SUCHITEPÉQUEZ",
+        "municipio": "PATULUL"
+    },
+    {
+        "codigo": "2380",
+        "direccion": "KM. 158, LOCAL 129 C.C. PLAZA AMERICAS,  CARRETERA A MAZATENANGO, SUCHITEPEQUEZ",
+        "cn": "Plaza Americas Mazatenango",
+        "departamento": "SUCHITEPÉQUEZ",
+        "municipio": "MAZATENANGO"
+    },
+    {
+        "codigo": "1620",
+        "direccion": "5A. AVENIDA 5-65, ZONA 1 RETALHULEU",
+        "cn": "Retalhuleu",
+        "departamento": "RETALHULEU",
+        "municipio": "RETALHULEU"
+    },
+    {
+        "codigo": "1900",
+        "direccion": "2 AV.  4 CALLE ESQUINA, C.C. PLAZA SAN ANTONIO Z. 1, SAN ANTONIO SUCHITEPEQUEZ.",
+        "cn": "San Antonio Suchi",
+        "departamento": "SUCHITEPÉQUEZ",
+        "municipio": "SAN ANTONIO SUCHITEPÉQUEZ"
+    },
+    {
+        "codigo": "2390",
+        "direccion": "2 CALLE 2-49 ZONA 1 SAN FELIPE RETALHULEU",
+        "cn": "San Felipe",
+        "departamento": "RETALHULEU",
+        "municipio": "SAN FELIPE"
+    }   
+]

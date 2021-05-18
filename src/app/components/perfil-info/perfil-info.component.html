@@ -1,0 +1,516 @@
+<app-perfil-nav-bar></app-perfil-nav-bar>
+<div class="container-fluid p-0" style="height: 100%;">
+    <div class="row m-0" style="height: 100%;padding-top:68px;">
+        <div class="col-lg-2  lateral-perfil">
+            <div class="row lateral-item-select">
+                <button type="button"  class="btn btn-back">
+                    <span class="icon icon-customer" style="width:24px;height: 24px;vertical-align: middle;margin-right: 15px;"></span>
+                    Gestiones
+                </button>
+            </div>
+            <div class="row lateral-item">
+                <button type="button"  class="btn btn-back">
+                    <span class="icon icon-inbox" style="width:24px;height: 24px;vertical-align: middle;margin-right: 15px;"></span>
+                    Notificaciones
+                </button>
+            </div>
+            <div class="row lateral-item">
+                <button type="button"  class="btn btn-back">
+                    <span class="icon icon-chart" style="width:24px;height: 24px;vertical-align: middle;margin-right: 15px;"></span>
+                    Dashboard
+                </button>
+            </div>
+            <p>Otra información</p>
+            <div class="row lateral-item">
+                <button type="button"  class="btn btn-back">
+                    <span class="icon icon-knowledge" style="width:24px;height: 24px;vertical-align: middle;margin-right: 15px;"></span>
+                    Banconsejos
+                </button>
+            </div>
+            <div class="row lateral-item">
+                <button type="button"  class="btn btn-back">
+                    <span class="icon icon-pricing" style="width:24px;height: 24px;vertical-align: middle;margin-right: 15px;"></span>
+                    Productos
+                </button>
+            </div>
+            <div class="row lateral-item">
+                <button type="button"  class="btn btn-back">
+                    <span class="icon icon-faq" style="width:24px;height: 24px;vertical-align: middle;margin-right: 15px;"></span>
+                    Ayuda
+                </button>
+            </div>
+            <p>Configuración</p>
+            <div class="row lateral-item">
+                <button type="button"  class="btn btn-back">
+                    <span class="icon icon-personal" style="width:24px;height: 24px;vertical-align: middle;margin-right: 15px;"></span>
+                    Mi perfil
+                </button>
+            </div>
+            <div class="row lateral-item">
+                <button type="button"  class="btn btn-back">
+                    <span class="icon icon-setting" style="width:24px;height: 24px;vertical-align: middle;margin-right: 15px;"></span>
+                    Configuración
+                </button>
+            </div>
+        </div>
+        <div class="col-lg-10 perfil">
+            <div class="row m-0" style="height: 5%;">
+                <div class="col-lg-9">
+                    <button type="button"  class="btn btn-inicio">
+                        <img src="/assets/icons/icon-back.svg">
+                        Regresar
+                    </button>
+                </div>
+                
+                <div class="col-lg-2">
+                    <button type="button" (click)="openDialogError()" class="btn outline-button-gray" style="width: 124px;margin-left: auto !important;margin-top: 15px;" >
+                        Guardar</button>
+                </div>
+            </div>
+            <div class="row m-0">
+                <div class="col-lg-3 col-perfil">
+                    <div class="profile">
+                        <!--
+                        <button type="button" class="btn avatarbutton">
+                            <img class="rounded mx-auto d-block avataricon" src="/assets/img/avatar.jpg" alt="Si"/>
+                        </button>
+                        -->
+                        <img  src="/assets/img/male.png" alt="Avatar" class="avatar">
+                        <!-- 
+                        <img *ngIf="datapreca.infocliente.cliente.genero=='M'" src="/assets/img/male.png" alt="Avatar" class="avatar">
+                        <img *ngIf="datapreca.infocliente.cliente.genero=='F'" src="/assets/img/female.png" alt="Avatar" class="avatar">
+                       
+                        <h2>
+                            {{datapreca.infocliente.cliente.primerNombre}} {{datapreca.infocliente.cliente.primerApellido}}
+                        </h2>
+                        <h3>
+                            DPI: {{datapreca.dpi}}
+                        </h3>
+                         -->
+                        <p>
+                            Última actualización 04/03/2021
+                        </p>
+                    </div>
+                    <div class="row profile-item-select">
+                        <div class="col-2">
+                            <button type="button"  class="btn btn-icon">
+                                <span class="icon icon-personal-profile" style="width:24px;height: 24px;vertical-align: middle;"></span>
+                            </button>
+                        </div>
+                        <div class="col-10">
+                            <p>Información Personal</p>
+                        </div>
+
+                    </div>
+                    <div class="row profile-item">
+                        <div class="col-2">
+                            <button type="button"  class="btn btn-icon">
+                                <span class="icon icon-personal-profile" style="width:24px;height: 24px;vertical-align: middle;"></span>
+                            </button>
+                        </div>
+                        <div class="col-10">
+                            <p>Datos de Patrono</p>
+                        </div>
+                    </div>
+                    <div class="row profile-item">
+                        <div class="col-2">
+                            <button type="button"  class="btn btn-icon">
+                                <span class="icon icon-financial" style="width:24px;height: 24px;vertical-align: middle;"></span>
+                            </button>
+                        </div>
+                        <div class="col-10">
+                            <p>Ingresos</p>
+                        </div>
+                    </div>
+                    <div class="row profile-item">
+                        <div class="col-2">
+                            <button type="button"  class="btn btn-icon">
+                                <span class="icon icon-home" style="width:24px;height: 24px;vertical-align: middle;"></span>
+                            </button>
+                        </div>
+                        <div class="col-10">
+                            <p>Mis productos</p>
+                        </div>
+                    </div>
+                    <div class="row profile-item">
+                        <div class="col-2">
+                            <button type="button"  class="btn btn-icon">
+                                <span class="icon icon-retirement" style="width:24px;height: 24px;vertical-align: middle;"></span>
+                            </button>
+                        </div>
+                        <div class="col-10">
+                            <p>Aplicar a un Crédito</p>
+                        </div>
+                    </div>
+                </div>
+                <!-- -->
+                <div *ngIf="ofertasbool==false" class="col-lg-8 col-info">
+                    <mat-horizontal-stepper #stepper>
+                        <mat-step >
+                            <app-perfil-info-personal></app-perfil-info-personal>
+                        </mat-step>
+                        <mat-step >
+
+                        </mat-step>
+                        <mat-step>
+                        </mat-step>
+                        <mat-step>
+                        </mat-step>
+                      </mat-horizontal-stepper>
+                    <!-- 
+                        <h4>INFORMACIÓN PERSONAL</h4>
+                    <div class="row m-0">
+                        <div class="col-lg-6 p-0">
+                            <div class="form-group">
+                                <label for="email">Primer Nombre</label>
+                                <input type="text" class="form-control" [(ngModel)]="datapreca.infocliente.cliente.primerNombre" id="email" aria-describedby="emailHelp" >
+                            </div>
+                            <div class="form-group">
+                                <label for="email">Estado civil</label>
+                                <input type="text" class="form-control" [(ngModel)]="datapreca.infocliente.cliente.estadoCivil" aria-describedby="emailHelp" >
+                            </div>
+                            <div class="form-group">
+                                <label for="email">Correo electrónico</label>
+                                <input type="email" class="form-control" [(ngModel)]="datapreca.email" aria-describedby="datapreca.email" placeholder="ejemplo@gmail.com">
+                            </div>
+                        </div>
+                        <div class="col-lg-6">
+                            <div class="form-group">
+                                <label for="email">Primer Apellido</label>
+                                <input type="text" class="form-control" [(ngModel)]="datapreca.infocliente.cliente.primerApellido" aria-describedby="emailHelp">
+                            </div>
+                            <div class="form-group">
+                                <label for="email">Fecha de nacimiento</label>
+                                <input type="text" class="form-control" [(ngModel)]="datapreca.infocliente.cliente.fechaNacimiento" aria-describedby="emailHelp">
+                            </div>
+                            <div class="form-group">
+                                <label for="email">Teléfono</label>
+                                <input type="number" class="form-control" [(ngModel)]="datapreca.telefono" aria-describedby="emailHelp">
+                            </div>
+                        </div>
+                    </div>
+                    <h4>DIRECCIÓN PERSONAL</h4>
+                    <div class="row m-0">
+                        <div class="col-lg-6 p-0">
+                            <div class="form-group">
+                                <label for="email">Dirección</label>
+                                <input type="text" class="form-control" [(ngModel)]="datapreca.infocliente.direcciones[0].direccionRegistrada" aria-describedby="emailHelp" >
+                            </div>
+                        </div>
+                        <div class="col-lg-6">
+                            <div class="form-group">
+                                <label for="email">Departamento</label>
+                                <input type="text" class="form-control" [(ngModel)]="datapreca.infocliente.direcciones[0].departamento" aria-describedby="emailHelp">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row m-0">
+                        <div class="col-lg-6 p-0">
+                            <div class="form-group">
+                                <label for="email">Municipio</label>
+                                <input type="text" class="form-control" [(ngModel)]="datapreca.infocliente.direcciones[0].municipio"  aria-describedby="emailHelp" >
+                            </div>
+                        </div>
+                        <div class="col-lg-6 p-0">
+                        </div>
+                    </div>
+                    <h4>INFORMACIÓN LABORAL</h4>
+                    <div class="row m-0">
+                        <div class="col-lg-6 p-0">
+                            <div class="form-group">
+                                <label for="email">Patrono</label>
+                                <input type="text" class="form-control" [(ngModel)]="datapreca.patrono" aria-describedby="emailHelp" >
+                            </div>
+                        </div>
+                        <div class="col-lg-6">
+                            <div class="form-group">
+                                <label for="email">Fecha de ingreso</label>
+                                <input type="text" class="form-control" [(ngModel)]="datapreca.fechaInicioLabores" aria-describedby="emailHelp">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row m-0">
+                        <div class="col-lg-6 p-0">
+                            <div class="form-group">
+                                <label for="email">Ingresos</label>
+                                <input type="text" class="form-control" [(ngModel)]="datapreca.ingresos"  aria-describedby="emailHelp" >
+                            </div>
+                        </div>
+                        <div class="col-lg-6 p-0">
+                        </div>
+                    </div>
+                    -->
+                    
+                </div>
+                <div *ngIf="ofertasbool" class="col-lg-8">
+                    <div class="row card-oferta">
+                        <div class="container customgrid">
+                            <div class="row">
+                               <div class="col-4">
+                                   <div class="row p-2" >
+                                    <button *ngIf="!oferta1" type="button" (click)="changeOferta1()" class="btn btn-arrow p-0">
+                                        <img src="/assets/icons/icons-chevron-down.svg"> 
+                                    </button>
+                                    <button *ngIf="oferta1" type="button" (click)="changeOferta1()" class="btn btn-arrow p-0">
+                                        <img src="/assets/icons/icons-chevron-up.svg"> 
+                                    </button>
+                                    <h4>OFERTA SOLICITUD</h4>
+                                   </div>
+                               </div> 
+                               <div class="col-9">
+                                </div> 
+                            </div>
+                            <div *ngIf="oferta1" class="row">
+                                <div class="col-3">
+                                    <div class="row p-2" style="height:65px;border-style:solid;border-width:1px 1px 0 0;border-color: #dae0f2;">
+                                        <div class="col-12">
+                                            <h3>Líquido a recibir</h3>
+                                            <h3 style="text-align: center;color:#00d0b5;">Q 33,096.68</h3>
+                                        </div>
+                                    </div>
+                                </div> 
+                                <div class="col-3">
+                                    <div class="row p-2" style="height:65px;border-style:solid;border-width:1px 1px 0 0;border-color: #dae0f2;">
+                                        <div class="col-12">
+                                            <h3>Monto</h3>
+                                            <h3 style="text-align: center;color:#00d0b5;">Q 35,000.00</h3>
+                                        </div>
+                                    </div>
+                                </div> 
+                                <div class="col-3">
+                                    <div class="row p-2" style="height:65px;border-style:solid;border-width:1px 1px 0 0;border-color: #dae0f2;">
+                                        <div class="col-12">
+                                            <h3>Plazo</h3>
+                                            <h3 style="text-align: center;color:#00d0b5;">36 meses</h3>
+                                        </div>
+                                    </div>
+                                </div> 
+                                <div class="col-3">
+                                    <div class="row p-2" style="height:65px;border-style:solid;border-width:1px 0 0 0;border-color: #dae0f2;">
+                                        <div class="col-12">
+                                            <h3>Cuota</h3>
+                                            <h3 style="text-align: center;color:#00d0b5;">Q 1,230.50</h3>
+                                        </div>
+                                    </div>
+                                </div> 
+                             </div>
+                        </div>
+                    </div>
+                    <div class="row card-oferta">
+                        <div class="container customgrid">
+                            <div class="row">
+                               <div class="col-4">
+                                   <div class="row p-2" >
+                                    <button *ngIf="!oferta2" type="button" (click)="changeOferta2()" class="btn btn-arrow p-0">
+                                        <img src="/assets/icons/icons-chevron-down.svg"> 
+                                    </button>
+                                    <button *ngIf="oferta2" type="button" (click)="changeOferta2()" class="btn btn-arrow p-0">
+                                        <img src="/assets/icons/icons-chevron-up.svg"> 
+                                    </button>
+                                    <h4>OFERTA PLAZO MAXIMO</h4>
+                                   </div>
+                               </div> 
+                               <div class="col-9">
+                                </div> 
+                            </div>
+                            <div *ngIf="oferta2" class="row">
+                                <div class="col-3">
+                                    <div class="row p-2" style="height:65px;border-style:solid;border-width:1px 1px 0 0;border-color: #dae0f2;">
+                                        <div class="col-12">
+                                            <h3>Líquido a recibir</h3>
+                                            <h3 style="text-align: center;color:#00d0b5;">Q 33,096.68</h3>
+                                        </div>
+                                    </div>
+                                </div> 
+                                <div class="col-3">
+                                    <div class="row p-2" style="height:65px;border-style:solid;border-width:1px 1px 0 0;border-color: #dae0f2;">
+                                        <div class="col-12">
+                                            <h3>Monto</h3>
+                                            <h3 style="text-align: center;color:#00d0b5;">Q 35,000.00</h3>
+                                        </div>
+                                    </div>
+                                </div> 
+                                <div class="col-3">
+                                    <div class="row p-2" style="height:65px;border-style:solid;border-width:1px 1px 0 0;border-color: #dae0f2;">
+                                        <div class="col-12">
+                                            <h3>Plazo</h3>
+                                            <h3 style="text-align: center;color:#00d0b5;">96 meses</h3>
+                                        </div>
+                                    </div>
+                                </div> 
+                                <div class="col-3">
+                                    <div class="row p-2" style="height:65px;border-style:solid;border-width:1px 0 0 0;border-color: #dae0f2;">
+                                        <div class="col-12">
+                                            <h3>Cuota</h3>
+                                            <h3 style="text-align: center;color:#00d0b5;">Q 648.51</h3>
+                                        </div>
+                                    </div>
+                                </div> 
+                             </div>
+                        </div>
+                    </div>
+                    <div class="row card-oferta">
+                        <div class="container customgrid">
+                            <div class="row">
+                               <div class="col-4">
+                                   <div class="row p-2" >
+                                    <button *ngIf="!oferta3" type="button" (click)="changeOferta3()" class="btn btn-arrow p-0">
+                                        <img src="/assets/icons/icons-chevron-down.svg"> 
+                                    </button>
+                                    <button *ngIf="oferta3" type="button" (click)="changeOferta3()" class="btn btn-arrow p-0">
+                                        <img src="/assets/icons/icons-chevron-up.svg"> 
+                                    </button>
+                                    <h4>OFERTA PLAZO</h4>
+                                   </div>
+                               </div> 
+                               <div class="col-9">
+                                </div> 
+                            </div>
+                            <div *ngIf="oferta3" class="row">
+                                <div class="col-3">
+                                    <div class="row p-2" style="height:65px;border-style:solid;border-width:1px 1px 0 0;border-color: #dae0f2;">
+                                        <div class="col-12">
+                                            <h3>Líquido a recibir</h3>
+                                            <h3 style="text-align: center;color:#00d0b5;">Q 33,096.68</h3>
+                                        </div>
+                                    </div>
+                                </div> 
+                                <div class="col-3">
+                                    <div class="row p-2" style="height:65px;border-style:solid;border-width:1px 1px 0 0;border-color: #dae0f2;">
+                                        <div class="col-12">
+                                            <h3>Monto</h3>
+                                            <h3 style="text-align: center;color:#00d0b5;">Q 35,000.00</h3>
+                                        </div>
+                                    </div>
+                                </div> 
+                                <div class="col-3">
+                                    <div class="row p-2" style="height:65px;border-style:solid;border-width:1px 1px 0 0;border-color: #dae0f2;">
+                                        <div class="col-12">
+                                            <h3>Plazo</h3>
+                                            <h3 style="text-align: center;color:#00d0b5;">13 meses</h3>
+                                        </div>
+                                    </div>
+                                </div> 
+                                <div class="col-3">
+                                    <div class="row p-2" style="height:65px;border-style:solid;border-width:1px 0 0 0;border-color: #dae0f2;">
+                                        <div class="col-12">
+                                            <h3>Cuota</h3>
+                                            <h3 style="text-align: center;color:#00d0b5;">Q 2,950.24</h3>
+                                        </div>
+                                    </div>
+                                </div> 
+                             </div>
+                        </div>
+                    </div>
+                    <div class="row card-oferta">
+                        <div class="container customgrid">
+                            <div class="row">
+                               <div class="col-4">
+                                   <div class="row p-2" >
+                                    <button *ngIf="!oferta4" type="button" (click)="changeOferta4()" class="btn btn-arrow p-0">
+                                        <img src="/assets/icons/icons-chevron-down.svg"> 
+                                    </button>
+                                    <button *ngIf="oferta4" type="button" (click)="changeOferta4()" class="btn btn-arrow p-0">
+                                        <img src="/assets/icons/icons-chevron-up.svg"> 
+                                    </button>
+                                    <h4>OFERTA MONTO</h4>
+                                   </div>
+                               </div> 
+                               <div class="col-9">
+                                </div> 
+                            </div>
+                            <div *ngIf="oferta4" class="row">
+                                <div class="col-3">
+                                    <div class="row p-2" style="height:65px;border-style:solid;border-width:1px 1px 0 0;border-color: #dae0f2;">
+                                        <div class="col-12">
+                                            <h3>Líquido a recibir</h3>
+                                            <h3 style="text-align: center;color:#00d0b5;">Q 80,572.25</h3>
+                                        </div>
+                                    </div>
+                                </div> 
+                                <div class="col-3">
+                                    <div class="row p-2" style="height:65px;border-style:solid;border-width:1px 1px 0 0;border-color: #dae0f2;">
+                                        <div class="col-12">
+                                            <h3>Monto</h3>
+                                            <h3 style="text-align: center;color:#00d0b5;">Q 85,200.00</h3>
+                                        </div>
+                                    </div>
+                                </div> 
+                                <div class="col-3">
+                                    <div class="row p-2" style="height:65px;border-style:solid;border-width:1px 1px 0 0;border-color: #dae0f2;">
+                                        <div class="col-12">
+                                            <h3>Plazo</h3>
+                                            <h3 style="text-align: center;color:#00d0b5;">36 meses</h3>
+                                        </div>
+                                    </div>
+                                </div> 
+                                <div class="col-3">
+                                    <div class="row p-2" style="height:65px;border-style:solid;border-width:1px 0 0 0;border-color: #dae0f2;">
+                                        <div class="col-12">
+                                            <h3>Cuota</h3>
+                                            <h3 style="text-align: center;color:#00d0b5;">Q 2,995.38</h3>
+                                        </div>
+                                    </div>
+                                </div> 
+                             </div>
+                        </div>
+                    </div>
+                    <div class="row card-oferta">
+                        <div class="container customgrid">
+                            <div class="row">
+                               <div class="col-4">
+                                   <div class="row p-2" >
+                                    <button *ngIf="!oferta5" type="button" (click)="changeOferta5()" class="btn btn-arrow p-0">
+                                        <img src="/assets/icons/icons-chevron-down.svg"> 
+                                    </button>
+                                    <button *ngIf="oferta5" type="button" (click)="changeOferta5()" class="btn btn-arrow p-0">
+                                        <img src="/assets/icons/icons-chevron-up.svg"> 
+                                    </button>
+                                    <h4>OFERTA COMBINADA</h4>
+                                   </div>
+                               </div> 
+                               <div class="col-9">
+                                </div> 
+                            </div>
+                            <div *ngIf="oferta5" class="row">
+                                <div class="col-3">
+                                    <div class="row p-2" style="height:65px;border-style:solid;border-width:1px 1px 0 0;border-color: #dae0f2;">
+                                        <div class="col-12">
+                                            <h3>Líquido a recibir</h3>
+                                            <h3 style="text-align: center;color:#00d0b5;">Q 151,575.94</h3>
+                                        </div>
+                                    </div>
+                                </div> 
+                                <div class="col-3">
+                                    <div class="row p-2" style="height:65px;border-style:solid;border-width:1px 1px 0 0;border-color: #dae0f2;">
+                                        <div class="col-12">
+                                            <h3>Monto</h3>
+                                            <h3 style="text-align: center;color:#00d0b5;">Q 160,100.00</h3>
+                                        </div>
+                                    </div>
+                                </div> 
+                                <div class="col-3">
+                                    <div class="row p-2" style="height:65px;border-style:solid;border-width:1px 1px 0 0;border-color: #dae0f2;">
+                                        <div class="col-12">
+                                            <h3>Plazo</h3>
+                                            <h3 style="text-align: center;color:#00d0b5;">96 meses</h3>
+                                        </div>
+                                    </div>
+                                </div> 
+                                <div class="col-3">
+                                    <div class="row p-2" style="height:65px;border-style:solid;border-width:1px 0 0 0;border-color: #dae0f2;">
+                                        <div class="col-12">
+                                            <h3>Cuota</h3>
+                                            <h3 style="text-align: center;color:#00d0b5;">Q 2,966.46</h3>
+                                        </div>
+                                    </div>
+                                </div> 
+                             </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+        </div>
+    </div>    
+</div>

@@ -1,0 +1,12 @@
+<h1 mat-dialog-title>Seleccione su patrono</h1>
+<div mat-dialog-content>
+    <ul style="padding-left: 0px">
+        <li *ngFor="let patrono of listPatronos">
+            <button mat-button [mat-dialog-close]="patrono">{{patrono.nombrePatrono}}</button> 
+        </li>
+
+    </ul>
+  </div>
+  <div mat-dialog-actions>
+    <button mat-button (click)="onNoClick()">Cancelar</button>
+  </div>

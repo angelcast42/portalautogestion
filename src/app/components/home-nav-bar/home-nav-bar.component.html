@@ -1,0 +1,20 @@
+<nav class="navbar navbar-expand-lg navbar-dark  nav-fixed">
+    <a class="navbar-brand" (click)="goSection('header-form')" style="margin-left: 15%;">
+        <img src="assets/img/bantrablogoblanco.png" alt="" width="180px" >
+    </a>
+    <button class="navbar-toggler"  type="button" (click)="togglechange()" >
+      <span class="navbar-toggler-icon"></span>
+    </button>
+  
+    <div class="collapse navbar-collapse flex-grow-1 text-right"  [ngClass]="{ 'show': navbarOpen }">
+        <ul class="navbar-nav ml-auto flex-nowrap" style="margin-right: 15%;">
+
+            <li class="nav-item">
+                <button type="button" (click)="goToSignUp()"  class="btn outline-button m-2" style="width: 158px;" >Crear Cuenta</button>
+            </li>
+            <li class="nav-item">
+                <button type="button" (click)="goToSignUp()"  class="btn round-button m-2" style="width: 158px;">Ingresar</button>
+            </li>
+        </ul>
+    </div>
+  </nav>

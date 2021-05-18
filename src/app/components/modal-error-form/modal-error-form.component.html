@@ -1,0 +1,18 @@
+<img *ngIf="data.tipo=='aprobado'"src="/assets/icons/icono-check.png" class="top-icon">
+<img *ngIf="data.tipo=='rechazado'"src="/assets/icons/icono-rechazado.png" class="top-icon">
+<img *ngIf="data.tipo=='revision'"src="/assets/icons/icono-revision.png" class="top-icon">
+
+<mat-dialog-content class="mat-typography">
+    <br>
+    <h4 *ngIf="data.tipo=='aprobado'"cdkFocusInitial >¡Tu crédito ha sido Precalificado!</h4>
+    <p *ngIf="data.tipo=='aprobado'">Completa los siguientes <strong>4 pasos</strong> para obtener tu desembolso.</p>
+    <h4 *ngIf="data.tipo=='rechazado'">Lamentamos informarte que tu credito no ha sido autorizado</h4>
+    <p *ngIf="data.tipo=='rechazado'">¿Estas listo para comenzar a organizar tu vida financiera?</p>
+    <h4 *ngIf="data.tipo=='revision'">Te informamos que tu proceso necesita una revisión para ser aprobado</h4>
+    <p *ngIf="data.tipo=='revision'">Pronto un Asesor de Bienestar Financiero se comunicará contigo.</p>
+</mat-dialog-content>
+<mat-dialog-actions align="center">
+    <button *ngIf="data.tipo=='aprobado'" mat-button class="round-button " style="width:126px;margin-top:25px;border-radius: 50px;background-color:#00adb1;" [mat-dialog-close]="true" >Continuar</button>
+    <button *ngIf="data.tipo=='rechazado'" mat-button class="round-button " style="width:126px;margin-top:25px;border-radius: 50px;background-color:#de0060;" [mat-dialog-close]="true" >Continuar</button>
+    <button *ngIf="data.tipo=='revision'" mat-button class="round-button " style="width:126px;margin-top:25px;border-radius: 50px;background-color:#ffcb00;" [mat-dialog-close]="true" >Continuar</button>
+</mat-dialog-actions>

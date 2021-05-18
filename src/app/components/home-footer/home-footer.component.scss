@@ -1,0 +1,98 @@
+.footer{
+    @media only screen and (max-width: 540px) {
+        height: auto;
+    }
+    @media only screen and (min-width: 540px) {
+        height: auto;
+    }
+    @media only screen and (min-width: 1200px) {
+        height: 300px;
+    }
+    
+    background-color: #000000;
+    .container{
+        padding-top:37px;
+    }
+    h1{
+        font-family: 'TypeType-bold', sans-serif;
+        font-size: 36px;
+        font-weight: bold;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: normal;
+        letter-spacing: 2px;
+        color: #f0f6f6;
+        margin-bottom: 8px;
+    }
+    h2{
+        font-family: 'TypeType-SemiBold', sans-serif;
+        font-size: 18px;
+        font-weight: bold;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: normal;
+        letter-spacing: 1px;
+        color: #ffffff;
+        margin-top:24px;
+        margin-bottom: 19px;
+        
+    }
+    h3{
+        width: 270px;
+        font-family: 'TypeType-Regular', sans-serif;
+        font-size: 18px;
+        font-weight: normal;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.33;
+        letter-spacing: normal;
+        color: #ffffff;
+    }
+    h4{
+        font-family: 'TypeType-Regular', sans-serif;
+        font-size: 16px;
+        font-weight: normal;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.5;
+        letter-spacing: normal;
+        color: #ffffff;
+        margin-top:24px;
+    }
+    a{
+        color:#ffff;
+    }
+    .input-group{
+        width: 262px;
+        span{
+            border: solid 2px #00acb0;
+        }
+        input{
+            height: 48px;
+            opacity: 0.75;
+            border-radius: 4px;
+            border: solid 1px #7d7d7d;
+            background-color: #ffffff;
+        }
+        .fas{
+            color: #00acb0;
+        }
+    }
+
+}
+.siguenos{
+    h2{
+        font-family: 'TypeType-SemiBold', sans-serif;
+        font-size: 18px;
+        font-weight: bold;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: normal;
+        letter-spacing: 1px;
+        color: #ffffff;
+        margin-bottom: 24px;
+    }
+    .fab{
+        color: #ffffff
+    }
+}

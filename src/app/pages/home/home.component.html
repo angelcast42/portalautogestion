@@ -1,0 +1,83 @@
+
+
+<section id="header-form" class="section-header" >
+    <app-home-nav-bar></app-home-nav-bar>
+<div class="container" >
+    <div id="carouselExampleSlidesOnly" class="carousel slide center-relative" data-ride="carousel">
+        <div class="carousel-inner">
+          <div class="carousel-item active">
+            <h1>
+                Somos un banco que no quiere que vayas al banco
+            </h1>
+            <h4>
+                y que disfrutes de la vida...
+            </h4>
+          </div>
+          <div class="carousel-item">
+            <h1>
+                Somos un banco que no quiere que vayas al banco
+            </h1>
+            <h4>
+                y que disfrutes de la vida...
+            </h4>          
+            </div>
+          <div class="carousel-item">
+            <h1>
+                Somos un banco que no quiere que vayas al banco
+            </h1>
+            <h4>
+                y que disfrutes de la vida...
+            </h4>          
+        </div>
+        </div>
+      </div>
+    <div class="row align-items-center form-credito" >
+        <div class="col-lg-9 p-0" style="height: 105px;background-color: #de0060;" >
+            <!--
+<div class="title">
+                <h4>Para solicitar tu crédito ingresa los siguientes datos</h4>
+            </div>
+            -->
+            <div class="row m-0" >
+                <div class="col-lg-4" style="text-align:center;">
+                    <div class="row m-0" style="width: 80%; text-align:center;margin-right: auto !important;margin-left: auto !important;margin-top: 16px !important;">
+                        <span class="icon icon-dpi" style="width:21px;height: 29px;"></span>
+                        <p style="margin-top:5px;margin-left: 5px;">Ingresa tu DPI</p>
+                    </div>
+                    <input [(ngModel)]="dpi" type="text" style="border:0;" />
+                </div>
+                <div class="col-lg-4" style="text-align:center;">
+                    <div class="row m-0" style="width: 85%;height: 37px; text-align:center;margin-right: auto !important;margin-left: auto !important;margin-top: 17px !important;">
+                        <span class="icon icon-quetzal" style="width:20px;height: 21px;margin-top: 5px;margin-left: 5px;"></span>
+                        <p style="margin-left: 5px;width:180px;">Ingresa el monto que necesitas</p>
+                    </div>
+                    <input  style="margin-top:0px;margin-left: 5px;border:0;" [(ngModel)]="monto" type="text" />       
+                </div>
+                <div class="col-lg-4" style="text-align:center;">
+                    <div class="row m-0" style="width: 80%; text-align:center;margin-right: auto !important;margin-left: auto !important;margin-top: 20px !important;">
+                        <span class="icon icon-calendar" style="width:22px;height: 23px;margin-left: 5px;"></span>
+                        <p style="margin-top:5px;margin-left: 5px;margin-bottom: 12px;">Plazo</p>
+                    </div>
+                    <select class="form-control"  id="exampleFormControlSelect1" >
+                        <option value="0" hidden>Plazo</option>
+                        <option value="4">48 MESES</option>
+                        <option value="3">36 MESES</option>
+                        <option value="2">24 MESES</option>
+                        <option value="1">12 MESES</option>
+                      </select>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-3" style="background-color: #000000;height: 105px;padding: 0;">
+            <button type="button" (click)="goCreditForm()" class="btn btn-continuar">Continuar</button>
+        </div>
+    </div>
+    
+</div>
+</section>
+<app-home-info></app-home-info>
+<app-home-descubre></app-home-descubre>
+<app-home-credit-form></app-home-credit-form>
+<app-home-footer></app-home-footer>
+
+
